@@ -1,0 +1,12 @@
+# Android Studio
+ejemploConexionHttp/.gradle/
+ejemploConexionHttp/.idea/
+ejemploConexionHttp/build/
+ejemploConexionHttp/app/build/
+ejemploConexionHttp/local.properties
+*.iml
+
+# NetBeans
+crudphpjson/nbproject/private/
+crudphpjson/build/
+crudphpjson/dist/
